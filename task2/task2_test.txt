@@ -1,0 +1,13 @@
+3
+Petrov A 5 3 4
+Sidorov B 4 2 4
+Ivanov C 3 3 3
+Petrov A
+Sidorov B
+Ivanov C
+
+2
+Prtrov Vladimir 5 2 4
+Ivanov Nikita 4 5 4
+Ivanov Nikita
+Prtrov Vladimir

@@ -1,0 +1,4 @@
+﻿  task2.cpp
+C:\Users\Пользователь\source\repos\task2\task2\task2.cpp(17,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\task2\task2\task2.cpp(59,20): warning C4018: <: несоответствие типов со знаком и без знака
+  task2.vcxproj -> C:\Users\Пользователь\source\repos\task2\Debug\task2.exe
